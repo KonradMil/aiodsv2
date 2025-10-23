@@ -1,5 +1,5 @@
 {
-    "name": "aiodsv2",
+    "name": "aiodsv2/core",
     "description": "Core backend components for AIODS framework",
     "type": "library",
     "keywords": [
@@ -42,11 +42,6 @@
                 "Aiods\\Core\\AiodsCoreServiceProvider"
             ]
         }
-    },
-    "homepage": "https://github.com/yourusername/aiods-core",
-    "support": {
-        "issues": "https://github.com/yourusername/aiods-core/issues",
-        "source": "https://github.com/yourusername/aiods-core"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
