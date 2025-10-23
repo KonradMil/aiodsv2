@@ -1,5 +1,5 @@
 {
-    "name": "aiods/core",
+    "name": "aiodsv2",
     "description": "Core backend components for AIODS framework",
     "type": "library",
     "keywords": [
